@@ -1,0 +1,39 @@
+1
+00:00:05,000 --> 00:00:07,900
+Hallo - in diesem Screencast ein kleiner Tipp
+
+2
+00:00:08,000 --> 00:00:13,900
+Wie kann man sich im Browser Firefox die IP-Adresse der Webseite anzeigen lassen
+
+3
+00:00:14,000 --> 00:00:18,900
+Ganz einfach - man installiert die Erweiterung ShowIP
+
+4
+00:00:19,000 --> 00:00:23,900
+man klickt auf Extras - geht auf Add-ons
+
+5
+00:00:24,000 --> 00:00:29,900
+sucht nach ShowIP
+
+6
+00:00:30,000 --> 00:00:37,900
+OK - klickt die Erweiterung an - klickt auf den Button installieren
+
+7
+00:00:40,000 --> 00:00:44,900
+abschliessend klickt man auf Jetzt neu starten
+
+8
+00:00:50,000 --> 00:00:56,900
+und schon wird die IP-Adresse in der Statusleiste angezeigt
+
+9
+00:01:05,000 --> 00:01:08,900
+Tschau und viel Glueck
+
+10
+00:01:09,000 --> 00:01:09,001
+Dieses Untertitel-Dokument steht unter der Lizenz: http://creativecommons.org/publicdomain/zero/1.0/
