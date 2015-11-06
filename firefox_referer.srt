@@ -1,0 +1,131 @@
+1
+00:00:05,000 --> 00:00:09,900
+Hallo - Referrer - Firefox - RefControl
+
+2
+00:00:10,000 --> 00:00:14,900
+Der sogenannte Referrer verraet einer Webseite von welcher Webseite man gerade kommt
+
+3
+00:00:15,000 --> 00:00:18,900
+auf welcher Webseite man einen Link benutzt hat
+
+4
+00:00:19,000 --> 00:00:23,900
+um auf die jeweilige aktuelle Webseite zu gelangen
+
+5
+00:00:24,000 --> 00:00:25,900
+Eine kleine Demonstration
+
+6
+00:00:26,000 --> 00:00:30,900
+Im Hintergrund laeuft ein simpler Webserver (python -m SimpleHTTPServer 8082)
+
+7
+00:00:31,000 --> 00:00:42,900
+Es gibt 2 Webseiten - einmal a.html und ref.html
+
+8
+00:00:43,000 --> 00:00:51,900
+Auf der Seite a.html gibt es einen Link zur Seite ref.html
+
+9
+00:00:52,000 --> 00:01:00,900
+Ich gebe also ein http://localhost:8082/a.html
+
+10
+00:01:02,000 --> 00:01:11,900
+Wenn ich den Link anklicke weiss die Seite ref.html von wo ich komme
+
+11
+00:01:12,000 --> 00:01:15,900
+Das verraet der Referrer der ausgelesen wird
+
+12
+00:01:16,000 --> 00:01:25,900
+Der Quellcode sieht so aus - fuer Seite a.html ganz simple
+
+13
+00:01:26,000 --> 00:01:35,900
+und fuer Seite ref.html - es wird Javascript benutzt
+
+14
+00:01:39,000 --> 00:01:45,900
+Wer diese Information unterbinden moechte kann folgendes tun
+
+15
+00:01:46,000 --> 00:02:03,900
+Im Browser eingeben about:config - ich werde vorsichtig sein, versprochen anklicken
+
+16
+00:02:04,000 --> 00:02:10,900
+nach Referer suchen - OK
+
+17
+00:02:11,000 --> 00:02:27,900
+den Wert 2 bei network.http.sendRefererHeader ersetzen und zwar durch den Wert 0
+
+18
+00:02:28,000 --> 00:02:32,900
+doppelt drauf klicken - 0 eingeben - OK
+
+19
+00:02:33,000 --> 00:02:45,900
+und jetzt nochmal ausprobieren - Link zu ref.html auf der Seite a.html - und es gibt keinen Referrer
+
+20
+00:02:46,000 --> 00:02:53,900
+das kann ich auch wieder rueckgaengig machen - doppelt drauf klicken - 2 eingeben - OK
+
+21
+00:02:54,000 --> 00:02:57,900
+und es gibt einen Referrer
+
+22
+00:02:58,000 --> 00:03:10,900
+oder man kann auf Extras gehen - klickt auf Add-ons - sucht nach RefControl
+
+23
+00:03:13,000 --> 00:03:24,900
+OK - Installiert die Erweiterung - Jetzt neu starten
+
+24
+00:03:28,000 --> 00:03:32,900
+OK - diese Seite kann ich schliessen
+
+25
+00:03:34,000 --> 00:03:46,900
+Mittels Extras - RefControl Optionen ist das Managen des Referrers nun anwendbar
+
+26
+00:03:47,000 --> 00:03:51,900
+Generell blockieren - Ich klicke auf den Button Bearbeiten
+
+27
+00:03:52,000 --> 00:03:57,900
+Hier gibt es jetzt die Aktionen: Normal, Blockieren, Ersetzen, Spezifisch
+
+28
+00:03:58,000 --> 00:04:05,900
+Ich klicke auf Blockieren - OK - OK
+
+29
+00:04:06,000 --> 00:04:12,900
+a.html - ich klicke auf den Link - und es gibt keinen Referrer
+
+30
+00:04:13,000 --> 00:04:18,900
+das kann ich ebenso wieder rueckgaengig machen - Extras - RefControl Optionen
+
+31
+00:04:19,000 --> 00:04:24,900
+Bearbeiten - Normal - OK - OK
+
+32
+00:04:25,000 --> 00:04:27,900
+und es gibt einen Referrer
+
+33
+00:04:31,000 --> 00:04:33,900
+Tschau und viel Glueck

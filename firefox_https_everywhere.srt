@@ -1,0 +1,103 @@
+1
+00:00:05,000 --> 00:00:08,900
+Hallo - die Firefox-Erweiterung HTTPS Everywhere
+
+2
+00:00:09,000 --> 00:00:13,900
+HTTPS steht fuer verschluesseltes Hypertext Transfer Protokoll
+
+3
+00:00:14,000 --> 00:00:18,900
+Sobald bei der Zieladresse, ganz vorne, ein https steht
+
+4
+00:00:19,000 --> 00:00:21,900
+werden die Daten verschluesselt uebertragen
+
+5
+00:00:22,000 --> 00:00:27,900
+Das ist momentan hier nicht der Fall also werden die Daten im Klartext transferiert
+
+6
+00:00:28,000 --> 00:00:30,900
+HTTPS - Ganz wichtig bei oeffentlichen Netzen
+
+7
+00:00:31,000 --> 00:00:33,900
+so werden die Passwoerter gesichert durch das Netz verschickt
+
+8
+00:00:34,000 --> 00:00:38,900
+Die Erweiterung HTTPS Everywhere sorgt im Hintergrund
+
+9
+00:00:39,000 --> 00:00:41,900
+wenn moeglich fuer eine SSL-Verbindung
+
+10
+00:00:42,000 --> 00:00:44,900
+so dass der Datentransfer verschluesselt verlaeuft
+
+11
+00:00:45,000 --> 00:00:47,900
+Die Installation funktioniert wie folgt
+
+12
+00:00:48,000 --> 00:00:54,900
+Ich gehe auf diese Webseite - klicke hier auf click here
+
+13
+00:00:55,000 --> 00:01:03,900
+klicke auf den Button Erlauben - jetzt auf den Button Jetzt installieren
+
+14
+00:01:04,000 --> 00:01:08,900
+und abschliessend auf die Schaltflaeche Jetzt Neu Starten
+
+15
+00:01:09,000 --> 00:01:14,900
+und schon ist das Plugin installiert - das erkennt man auch hier an der Seite
+
+16
+00:01:15,000 --> 00:01:17,900
+hier ist ein HTTPS Everywhere Icon
+
+17
+00:01:18,000 --> 00:01:25,900
+Wenn ich jetzt z.B. google aufrufe dann gibt es ein https
+
+18
+00:01:26,000 --> 00:01:31,900
+das kann ich auch bei bestimmten Seiten deaktivieren
+
+19
+00:01:32,000 --> 00:01:37,900
+dann klicke ich hier auf das HTTPS Everywhere Icon - auf Enable/Disable Rules
+
+20
+00:01:38,000 --> 00:01:43,900
+und kann jetzt hier fuer bestimmte Seiten das https deaktivieren
+
+21
+00:01:44,000 --> 00:01:50,900
+z.B. fuer Google Search - deaktiveren - OK
+
+22
+00:01:51,000 --> 00:01:58,900
+Nun rufe ich Google erneut auf und diesmal gibt es kein https
+
+23
+00:01:59,000 --> 00:02:08,900
+das kann ich auch wieder rueckgaengig machen - OK
+
+24
+00:02:09,000 --> 00:02:15,900
+die Seite neu laden und es gibt eine SSL-Verbindung
+
+25
+00:02:17,000 --> 00:02:20,900
+Tschau und viel Glueck
+
+26
+00:02:21,000 --> 00:02:21,001
+Dieses Untertitel-Dokument steht unter der Lizenz: http://creativecommons.org/publicdomain/zero/1.0/
