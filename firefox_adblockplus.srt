@@ -1,0 +1,103 @@
+1
+00:00:05,000 --> 00:00:09,900
+Hallo - die Firefox-Erweiterung - Adblock Plus
+
+2
+00:00:10,000 --> 00:00:13,900
+Mit Adblock Plus koennen Filterlisten die Quelltextmuster beinhalten
+
+3
+00:00:14,000 --> 00:00:16,900
+abonniert werden um Werbung und andere laestige Einblendungen
+
+4
+00:00:17,000 --> 00:00:19,900
+von diversen Dienstleistern auszublenden
+
+5
+00:00:20,000 --> 00:00:22,900
+Zusaetzlich koennen diese Liste durch eigene Filterregeln erweitert werden
+
+6
+00:00:23,000 --> 00:00:25,900
+Um Adblock Plus zu installieren
+
+7
+00:00:26,000 --> 00:00:30,900
+starte ich Firefox - ich gehe ins Menue Extras - waehle Addons
+
+8
+00:00:31,000 --> 00:00:37,900
+Add-ons herunterladen - suche nach Adblock Plus
+
+9
+00:00:38,000 --> 00:00:43,900
+waehle Adblock Plus - klicke auf den Button zu Firefox hinzufuegen
+
+10
+00:00:44,000 --> 00:00:54,900
+OK - Jetzt installieren und abschliessend Firefox neu starten
+
+11
+00:00:55,000 --> 00:00:58,900
+und schon ist das Add-on Adblock Plus verfuegbar
+
+12
+00:01:00,000 --> 00:01:06,900
+Die Filter kann ich jetzt managen unter Extras - Adblock Plus - Einstellungen
+
+13
+00:01:07,000 --> 00:01:13,900
+Filter hinzufuegen - Filterabonnement hinzufuegen - Filter fuer alle Abonnements herunterladen
+
+14
+00:01:14,000 --> 00:01:15,900
+Filter importieren usw.
+
+15
+00:01:16,000 --> 00:01:25,900
+Ebenso kann ich die Filter managen indem ich auf das Symbol ABP klicke und dann auf Einstellungen
+
+16
+00:01:27,000 --> 00:01:35,900
+Um jetzt ein bestimmtes Element auf einer Webseite zu blockieren
+
+17
+00:01:36,000 --> 00:01:40,900
+waehle ich ein Element aus auf einer Webseite um das mal zu demonstrieren
+
+18
+00:01:41,000 --> 00:01:49,900
+klicke mit der rechten Maustaste auf das Element und kann jetzt auf Adblock Plus: Grafik blockieren... klicken
+
+19
+00:01:50,000 --> 00:01:57,900
+und hier kann ich jetzt eine Regel aufstellen - einen Filter hinzufuegen
+
+20
+00:01:58,000 --> 00:02:05,900
+OK - Seite neu laden - und schon wird das Element ausgeblendet
+
+21
+00:02:06,000 --> 00:02:14,900
+Es gibt aber auch die Eintraege: Deaktivieren auf dieser Domain
+
+22
+00:02:15,000 --> 00:02:18,900
+Deaktivieren nur auf dieser Seite - ueberall deaktivieren
+
+23
+00:02:19,000 --> 00:02:27,900
+so kann man die Filter entfernen - das zeige ich auch gleich mal
+
+24
+00:02:28,000 --> 00:02:32,900
+ich klicke auf den Eintrag - Deaktivieren auf dieser Domain
+
+25
+00:02:33,000 --> 00:02:39,900
+lade die Seite neu und schon ist das Element wieder sichtbar
+
+26
+00:02:40,000 --> 00:02:42,900
+Tschau und viel Glueck
