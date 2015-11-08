@@ -1,0 +1,63 @@
+1
+00:00:05,000 --> 00:00:08,900
+Hallo - die Firefox-Erweiterung - Flashblock
+
+2
+00:00:09,000 --> 00:00:11,900
+Wer NoScript nicht verwenden kann oder moechte
+
+3
+00:00:12,000 --> 00:00:13,900
+kann alternativ mit der Erweiterung Flashblock
+
+4
+00:00:14,000 --> 00:00:16,900
+Flash oder Silverlight blockieren
+
+5
+00:00:17,000 --> 00:00:23,900
+Ich starte Firefox - gehe nun ins Menue Extras - klicke auf Add-ons
+
+6
+00:00:24,000 --> 00:00:32,900
+Add-ons herunterladen - Ich suche jetzt nach Flashblock
+
+7
+00:00:33,000 --> 00:00:43,900
+und gefunden - anklicken - zu Firefox hinzufuegen - Jetzt installieren
+
+8
+00:00:44,000 --> 00:00:49,900
+Firefox neu starten und schon ist die Firefox-Erweiterung verfuegbar
+
+9
+00:00:52,000 --> 00:00:59,900
+Um das mal zu zeigen rufe ich jetzt eine Seite mit Flash auf
+
+10
+00:01:01,000 --> 00:01:12,900
+und sobald ein Flash-Element vorhanden ist wird dort dieses Symbol angezeigt, ein f
+
+11
+00:01:13,000 --> 00:01:17,900
+nun kann man mit der rechten Maustaste drauf klicken
+
+12
+00:01:18,000 --> 00:01:21,900
+und kann das Flash-Objekt auf dieser Seite erlauben
+
+13
+00:01:22,000 --> 00:01:25,900
+dann gibt es noch die Moeglichkeit Kopiere Flash Verzeichnis
+
+14
+00:01:26,000 --> 00:01:35,900
+Es gibt Flashblock Optionen, hier kann man Silverlight auch blockieren aktivieren
+
+15
+00:01:36,000 --> 00:01:39,900
+und man kann dieses Flashobjekt entfernen
+
+16
+00:01:44,000 --> 00:01:47,900
+Tschau und viel Glueck

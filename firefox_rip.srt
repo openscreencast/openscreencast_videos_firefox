@@ -1,0 +1,79 @@
+1
+00:00:05,000 --> 00:00:11,900
+Hallo - in diesem Video moechte ich die Firefox-Erweiterung Remove It Permanently vorstellen
+
+2
+00:00:12,000 --> 00:00:13,900
+Unzwar kann man mit dieser Erweiterung
+
+3
+00:00:14,000 --> 00:00:19,900
+bestimmte Elemente einer Webseite blockieren also permanent verschwinden lassen wie z.B. Werbung
+
+4
+00:00:21,000 --> 00:00:25,900
+Und so kann man die Erweiterung installieren
+
+5
+00:00:26,000 --> 00:00:31,900
+man klickt auf Extras - Addons - Addons herunterladen - sucht nach remove
+
+6
+00:00:32,000 --> 00:00:38,900
+Da ist die Erweiterung auch schon, einfach drauf klicken und auf zu Firefox hinzufuegen klicken
+
+7
+00:00:39,000 --> 00:00:42,900
+Das Addon wird heruntergeladen - Jetzt installieren
+
+8
+00:00:43,000 --> 00:00:48,900
+und jetzt nur noch auf Firefox neu starten klicken und schon ist die Erweiterung verfuegbar
+
+9
+00:00:50,000 --> 00:00:55,900
+Wenn man jetzt auf irgendeiner Webseite ist
+
+10
+00:00:56,000 --> 00:01:00,900
+und man will irgendein Element blockieren
+
+11
+00:01:01,000 --> 00:01:04,900
+klickt man mit der rechten Maustaste drauf
+
+12
+00:01:05,000 --> 00:01:12,900
+dann gibt es den Eintrag Permanent entfernen, dort klickt man drauf und schon ist das Element nicht mehr da
+
+13
+00:01:13,000 --> 00:01:19,900
+Dann wird das auch angezeigt unten in der Statusleiste mit diesem Symbol
+
+14
+00:01:20,000 --> 00:01:25,900
+Um die Elemente die nicht mehr sichtbar sind zu verwalten
+
+15
+00:01:26,000 --> 00:01:32,900
+klickt man auf Extras, dort gibt es den Eintrag RIP Optionen
+
+16
+00:01:33,000 --> 00:01:38,900
+Hier kann man die Filter verwalten - man kann sie exportieren, importieren und entfernen
+
+17
+00:01:39,000 --> 00:01:47,900
+und man kann auch einzelne Elemente bearbeiten, entfernen oder Neue hinzufuegen
+
+18
+00:01:48,000 --> 00:01:56,900
+und das mache ich auch - ich entferne den Filter und klicke auf OK
+
+19
+00:01:57,000 --> 00:02:03,900
+Ich lade die Seite neu und schon ist das Element wieder auf der Seite
+
+20
+00:02:06,000 --> 00:02:09,900
+Tschau und viel Glueck

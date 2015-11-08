@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="720"
+   id="svg7831"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="firefox_flashblock.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="/home/paul/todo/klassen_o.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs7833">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 384 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1024 : 384 : 1"
+       inkscape:persp3d-origin="512 : 256 : 1"
+       id="perspective7839" />
+    <inkscape:perspective
+       id="perspective2848"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.76"
+     inkscape:cx="653.24938"
+     inkscape:cy="402.40928"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1378"
+     inkscape:window-height="886"
+     inkscape:window-x="702"
+     inkscape:window-y="277"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7836">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect7841"
+       width="1280"
+       height="720"
+       x="0"
+       y="0"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.23046303px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="675.55719"
+       y="82.530678"
+       id="text7843"
+       transform="scale(0.9454028,1.0577502)"><tspan
+         sodipodi:role="line"
+         x="675.55719"
+         y="82.530678"
+         id="tspan3025">Screencast: Firefox - Flashblock</tspan><tspan
+         sodipodi:role="line"
+         x="675.55719"
+         y="121.56876"
+         id="tspan3001" /><tspan
+         sodipodi:role="line"
+         x="675.55719"
+         y="160.60684"
+         id="tspan2834">www.openscreencast.de</tspan><tspan
+         sodipodi:role="line"
+         x="675.55719"
+         y="199.64491"
+         id="tspan7851" /><tspan
+         sodipodi:role="line"
+         x="675.55719"
+         y="238.683"
+         id="tspan7855">Ausgangspunkt: Ubuntu 10.10</tspan><tspan
+         sodipodi:role="line"
+         x="675.55719"
+         y="277.72107"
+         id="tspan3011" /><tspan
+         sodipodi:role="line"
+         x="675.55719"
+         y="316.75916"
+         id="tspan2836">Datum: 12.04.2011</tspan><tspan
+         sodipodi:role="line"
+         x="675.55719"
+         y="355.79724"
+         id="tspan7865" /><tspan
+         sodipodi:role="line"
+         x="675.55719"
+         y="394.8353"
+         id="tspan2838">Lizenz: Creative Commons by-sa</tspan><tspan
+         sodipodi:role="line"
+         x="675.55719"
+         y="433.87338"
+         id="tspan3352">http://creativecommons.org/licenses/by-sa/3.0/</tspan><tspan
+         sodipodi:role="line"
+         x="675.55719"
+         y="472.91147"
+         id="tspan3350" /><tspan
+         sodipodi:role="line"
+         x="675.55719"
+         y="511.94955"
+         id="tspan3353">Textquelle: http://www.freiesmagazin.de/freiesMagazin-2011-03</tspan><tspan
+         sodipodi:role="line"
+         x="675.55719"
+         y="550.98761"
+         id="tspan3355">Gesunde Datenkekse backen - Firefox mit Erweiterungen absichern</tspan><tspan
+         sodipodi:role="line"
+         x="675.55719"
+         y="590.0257"
+         id="tspan3357">Autor: Bodo Schmitz</tspan><tspan
+         sodipodi:role="line"
+         x="675.55719"
+         y="629.06378"
+         id="tspan3359">Lizenz: http://creativecommons.org/licenses/by-sa/3.0/</tspan><tspan
+         sodipodi:role="line"
+         x="675.55719"
+         y="668.10187"
+         id="tspan3057" /><tspan
+         sodipodi:role="line"
+         x="675.55719"
+         y="707.13995"
+         id="tspan7861" /><tspan
+         sodipodi:role="line"
+         x="675.55719"
+         y="746.17804"
+         id="tspan4096" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="631.57898"
+       y="327.89474"
+       id="text3355"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3358"
+         x="631.57898"
+         y="327.89474" /></text>
+  </g>
+</svg>

@@ -1,0 +1,75 @@
+1
+00:00:05,000 --> 00:00:08,900
+Hallo - die Firefox-Erweiterung - Cookie Button in the status bar
+
+2
+00:00:09,000 --> 00:00:15,900
+Die Erweiterung "CBitsb" verhaelt sich in gewisser Weise aehnlich wie "NoScript"
+
+3
+00:00:16,000 --> 00:00:19,900
+Mit ihr koennen Cookies generell gesperrt
+
+4
+00:00:20,000 --> 00:00:25,900
+und bei Bedarf fuer einzelne Webseiten temporaer oder dauerhaft aktiviert werden
+
+5
+00:00:26,000 --> 00:00:29,900
+Die Erweiterung kann man wie folgt installieren
+
+6
+00:00:30,000 --> 00:00:43,900
+Man klickt auf Extras - Add-ons - Add-ons herunterladen - sucht jetzt nach Cookie Button
+
+7
+00:00:45,000 --> 00:00:57,900
+Gefunden - OK - jetzt klickt man auf zu Firefox hinzufuegen - Jetzt installieren
+
+8
+00:00:58,000 --> 00:01:06,900
+Und Firefox neu starten - und schon ist die Erweiterung installiert
+
+9
+00:01:07,000 --> 00:01:12,900
+Im Gegensatz zur JavaScript-Steuerung mittels "NoScript"
+
+10
+00:01:13,000 --> 00:01:18,900
+muessen die Cookies bei "CBitsb" in den Browser-Optionen gesperrt werden
+
+11
+00:01:19,000 --> 00:01:23,900
+Die Erweiterung entsperrt sie dann entsprechend der Konfiguration
+
+12
+00:01:24,000 --> 00:01:31,900
+Und das laeuft wie folgt, man klickt auf Bearbeiten - Einstellungen - Datenschutz
+
+13
+00:01:32,000 --> 00:01:41,900
+und wechselt jetzt von anlegen zu nach benutzerdefinierten Einstellungen anlegen, unter Chronik
+
+14
+00:01:42,000 --> 00:01:48,900
+setzt ein Haekchen bei Firefox automatisch im privaten Modus starten
+
+15
+00:01:49,000 --> 00:01:57,900
+und entfernt das Haekchen bei Cookies akzeptieren, OK - Schliessen
+
+16
+00:01:58,000 --> 00:02:05,900
+Die Steuerung funktioniert ebenfalls ueber ein Symbol in der Statusleiste des Browsers
+
+17
+00:02:06,000 --> 00:02:14,900
+Es gibt Standard (Cookies ablehnen), Cookies ablehnen fuer diese Seite
+
+18
+00:02:15,000 --> 00:02:21,900
+Sitzungs-Cookies akzeptieren und Cookies akzeptieren
+
+19
+00:02:23,000 --> 00:02:26,900
+Tschau und viel Glueck

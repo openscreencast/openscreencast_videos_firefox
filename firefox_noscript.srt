@@ -1,0 +1,147 @@
+1
+00:00:05,000 --> 00:00:08,900
+Hallo - die Firefox-Erweiterung - NoScript
+
+2
+00:00:09,000 --> 00:00:13,900
+Der Browser Firefox sowie andere Produkte aus dem Hause Mozilla
+
+3
+00:00:14,000 --> 00:00:17,900
+verfuegen ueber eine Erweiterungsschnittstelle, die man einsetzen kann
+
+4
+00:00:18,000 --> 00:00:26,900
+um die benutzten Programme mit geeigneten Erweiterungen gegen Einbruch und Datenschnueffelei abzudichten
+
+5
+00:00:27,000 --> 00:00:31,900
+Der wohl groesste Anteil an Sicherheitsschwankungen wird hervorgerufen
+
+6
+00:00:32,000 --> 00:00:34,900
+durch JavaScript in Kombination mit anderen Techniken
+
+7
+00:00:35,000 --> 00:00:38,900
+Da man JavaScript beim normalen Surfen in der Regel nicht braucht
+
+8
+00:00:39,000 --> 00:00:43,900
+sollte es standardmaessig deaktiviert werden, um Folgeschaeden zu vermeiden
+
+9
+00:00:44,000 --> 00:00:48,900
+Dazu bietet sich in idealer Form die Erweiterung "NoScript" an
+
+10
+00:00:49,000 --> 00:00:53,900
+die man wie folgt installiert - man klickt auf Extras - Add-ons
+
+11
+00:00:54,000 --> 00:01:07,900
+Add-ons herunterladen - sucht nach NoScript - klickt auf zu Firefox hinzufuegen
+
+12
+00:01:08,000 --> 00:01:24,900
+Jetzt installieren und man startet Firefox neu - Nun ist die Erweiterung installiert
+
+13
+00:01:25,000 --> 00:01:29,900
+Die standardmaessig blockierten Skripte lassen sich temporaer (bis zum Ende der Sitzung)
+
+14
+00:01:30,000 --> 00:01:32,900
+oder dauerhaft (bei regelmaessig besuchten Seiten) 
+
+15
+00:01:33,000 --> 00:01:40,900
+ueber das in der Statusleiste des Browsers erscheinende Icon aktivieren
+
+16
+00:01:41,000 --> 00:01:46,900
+Man kann Skripte allgemein erlauben, was nicht empfohlen wird
+
+17
+00:01:47,000 --> 00:01:50,900
+Oder man kann alle Beschraenkungen fuer dieses Seite aufheben
+
+18
+00:01:51,000 --> 00:01:54,900
+oder temporaer alle Beschraenkungen fuer diese Seite aufheben
+
+19
+00:01:55,000 --> 00:01:57,900
+oder speziell fuer eine Domain
+
+20
+00:01:59,000 --> 00:02:03,900
+Das Ganze hat dann noch einige begruessenswerte "Randerscheinungen"
+
+21
+00:02:04,000 --> 00:02:07,900
+Waehrend JavaScript auf der Hauptseite aktiviert ist
+
+22
+00:02:08,000 --> 00:02:14,900
+bleiben die Skripte in den potentiell Schadcode-belasteten Werbeeinblendungen weiterhin deaktiviert
+
+23
+00:02:15,000 --> 00:02:17,900
+Viele dieser Einblendungen kann man ergaenzend
+
+24
+00:02:18,000 --> 00:02:22,900
+mit der Erweiterung "Adblock Plus" komplett entfernen
+
+25
+00:02:23,000 --> 00:02:25,900
+Man kann somit die Webseite mit JavaScript bedienen
+
+26
+00:02:26,000 --> 00:02:29,900
+ohne gleichzeitig schmutziges Beiwerk mitgeliefert zu bekommen
+
+27
+00:02:30,000 --> 00:02:32,900
+Darueber hinaus kann "NoScript" noch viel mehr
+
+28
+00:02:33,000 --> 00:02:37,900
+Neben JavaScript kann diese Erweiterung diverse potentiell gefaehrliche
+
+29
+00:02:38,000 --> 00:02:40,900
+oder instabile Plug-ins blockieren (z. B. Flash, Silverlight etc.)
+
+30
+00:02:41,000 --> 00:02:44,900
+sowie manche Datensammelei verhindern und Randgefahren
+
+31
+00:02:45,000 --> 00:02:49,900
+wie z. B. Umleitungen auf andere potentiell Schadcode-belastete Webseiten verhindern
+
+32
+00:02:51,000 --> 00:02:58,900
+Eins muss man beachten - JavaScript muss in den Browser-Optionen aktiviert bleiben
+
+33
+00:02:59,000 --> 00:03:03,900
+da es durch die Erweiterung selbst blockiert wird
+
+34
+00:03:04,000 --> 00:03:08,900
+Ob Javascript aktiviert ist oder nicht findet man heraus indem man auf
+
+35
+00:03:09,000 --> 00:03:21,900
+Bearbeiten - Einstellungen - Inhalt klickt
+
+36
+00:03:22,000 --> 00:03:27,900
+und jetzt setzt man hier ein Haekchen wenn es noch nicht gesetzt wurde bei Javascript aktivieren
+
+37
+00:03:34,000 --> 00:03:35,900
+Tschau und viel Glueck
